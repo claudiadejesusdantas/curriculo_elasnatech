@@ -18,4 +18,8 @@ Publique esse site no Github Pages 😉
 ### Link da página:
 https://claudiadejesusdantas.github.io/curriculo_elasnatech/
 
+Página atual (sem css)
+![Alt text](image-1.png)
+
+Página anterior (com css)
 ![Imagem do Site](image.png)
